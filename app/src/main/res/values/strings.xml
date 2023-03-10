@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convertisseur de Monnaie</string>
+    <string name="dinar2euro">Dinar --> Euro</string>
+    <string name="euro2dinar">Euro --> Dinar</string>
+    <string name="butt">Convert...</string>
+
+</resources>
